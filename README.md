@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Androind Project**
 
-- 🌱 I’m currently learning **Mechine Learning**
+- 🌱 I’m currently learning **SQA And Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aladnansami](https://github.com/aladnansami)
 
