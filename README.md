@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Al Adnan Sami</h1>
-<h3 align="center">A passionate Software Enginner and Graphics Designer from Bangladesh</h3>
+<h3 align="center">A passionate Software Automation Engineer </h3>
 
-- 🔭 I’m currently working on **Androind Project**
+- 🔭 I’m currently working on **SDET**
 
-- 🌱 I’m currently learning **SQA And Full Stack Development**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aladnansami](https://github.com/aladnansami)
 
-- 💬 Ask me about **Graphics Design, SQA, SRS, Data Science**
+- 💬 Ask me about **Graphics Design, SQA, SDET, Automation**
 
 - 📫 How to reach me **aladnansami21@gmail.com**
 
