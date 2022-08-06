@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al Adnan Sami</h1>
 <h3 align="center">A passionate Software Automation Engineer </h3>
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/aladnansami/Internship-MID-Presentation/blob/main/WhatsApp%20Image%202022-07-02%20at%205.32.59%20PM.jpeg" width="50%" height="auto" />
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aladnansami&show_icons=true&hide_border=true" />
 
 
