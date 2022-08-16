@@ -30,7 +30,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Jmeter | Postman | Manual Testing | Automation Testing Mobile and web 
-- 💻 &nbsp; Python | Selenium | Java | Cyprass | Appium 
+- 💻 &nbsp; Python | Selenium | Java | Cyprass | Appium | Jenkins
 - 🌐 &nbsp; Android | Automation | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | Intellj Idea | Visual Studio code | Eclipse | Git |Jira | CI/CD
