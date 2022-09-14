@@ -37,3 +37,9 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aladnansami&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/aladnansami/github-readme-stats)
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aladnansami&theme=default" width="42%" height="auto" alt="aladnansami's github stats"/>
+
+
+
+
+
