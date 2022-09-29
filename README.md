@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Doing my internship at <a href="https://konasl.com/">KONASL</a> working as a **Software Automation Engineer**
 
-- 🌱 I’m currently learning **App Automation**
+- 🌱 I’m currently learning **Jenkins **
 
 - 👨‍💻 All of my projects are available at [https://github.com/aladnansami](https://github.com/aladnansami)
 
