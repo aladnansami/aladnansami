@@ -4,7 +4,7 @@
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aladnansami&show_icons=true&hide_border=true" />
 
 
-- 🔭 I’m currently Doing my internship at <a href="https://konasl.com/">KONASL</a> working as a **Software Automation Engineer**
+- 🔭 Successfully done my internship at <a href="https://konasl.com/">KONASL</a> working as a **Software Automation Engineer**
 
 - 🌱 I’m currently learning **Jenkins **
 
